@@ -1,7 +1,7 @@
 ## Identitas
-# Nama : Ayu Fitrianingsih
-# NIM : H1D023038
-# Shift : E/A
+### Nama : Ayu Fitrianingsih
+### NIM : H1D023038
+### Shift : E/A
 
 /*
 ============================================================
